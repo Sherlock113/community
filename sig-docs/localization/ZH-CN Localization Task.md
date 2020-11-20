@@ -81,7 +81,7 @@ Please read the following rules before you claim a task:
 | [Application Resources Monitoring](https://kubesphere.io/docs/cluster-administration/application-resources-monitoring/) | [Kai Zhang](https://github.com/mvpzhangkai) | [544](https://github.com/kubesphere/website/pull/544)        |
 | [Mail Server](https://kubesphere.io/docs/cluster-administration/cluster-settings/mail-server/) | https://github.com/shenhonglei | [458](https://github.com/kubesphere/website/pull/458) |
 | [Node Management](https://kubesphere.io/docs/cluster-administration/nodes/) | [Kai Zhang](https://github.com/mvpzhangkai) | [557](https://github.com/kubesphere/website/pull/557)|
-| [Cluster Shutdown and Restart](https://kubesphere.io/docs/cluster-administration/shuting-down-and-restart-cluster-cracefully/) |[Kai Zhang](https://github.com/mvpzhangkai)  | |
+| [Cluster Shutdown and Restart](https://kubesphere.io/docs/cluster-administration/shut-down-and-restart-cluster-gracefully/) |[Kai Zhang](https://github.com/mvpzhangkai)  | |
 | [Alerting Policy (Node Level)](https://kubesphere.io/docs/cluster-administration/cluster-wide-alerting-and-notification/alerting-policy/) | [Kai Zhang](https://github.com/mvpzhangkai) | |
 | [Alerting Message (Node Level)](https://kubesphere.io/docs/cluster-administration/cluster-wide-alerting-and-notification/alerting-message/) | [Kai Zhang](https://github.com/mvpzhangkai) | |
 | [Index Page](https://kubesphere.io/docs/cluster-administration/) | [Kai Zhang](https://github.com/mvpzhangkai) | |
@@ -104,6 +104,13 @@ Please read the following rules before you claim a task:
 | [Querying](https://kubesphere.io/docs/project-user-guide/custom-application-monitoring/visualization/querying/) |                                               |                                                       |
 | [Alerting Policy (Workload Level)](https://kubesphere.io/docs/project-user-guide/alerting/alerting-policy/) |                                               |                                                       |
 | [Alerting Message (Workload Level)](https://kubesphere.io/docs/project-user-guide/alerting/alerting-message/) |                                               |                                                       |
+| [Overview](https://kubesphere.io/docs/project-user-guide/grayscale-release/overview/) |                                               |                                                       |
+| [Blue-green Deployment](https://kubesphere.io/docs/project-user-guide/grayscale-release/blue-green-deployment/) |                                               |                                                       |
+| [Canary Release](https://kubesphere.io/docs/project-user-guide/grayscale-release/canary-release/) |                                               |                                                       |
+| [Traffic Mirroring](https://kubesphere.io/docs/project-user-guide/grayscale-release/traffic-mirroring/) |                                               |                                                       |
+| [App Templates](https://kubesphere.io/docs/project-user-guide/application/app-template/) |                                               |                                                       |
+| [Deploy Apps from App Templates](https://kubesphere.io/docs/project-user-guide/application/deploy-app-from-template/) |                                               |                                                       |
+| [Deploy Apps from App Store](https://kubesphere.io/docs/project-user-guide/application/deploy-app-from-appstore/) |                                               |                                                       |
 
 | DevOps User Guide                                            | Translator | PR Link |
 | ------------------------------------------------------------ | ---------- | ------- |
@@ -118,15 +125,12 @@ Please read the following rules before you claim a task:
 | ------------------------------------------------------------ | ---------- | ------- |
 | [Index Page](https://kubesphere.io/docs/application-store/)  |            |         |
 | [Deploy RabbitMQ on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/rabbitmq-app/) |            |         |
-| [Deploy MongoDB on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/mongodb-app/) |            |         |
-| [Deploy NGINX on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/nginx-app/) |            |         |
-| [Deploy Redis on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/redis-app/) |            |         |
-| [Deploy Tomcat on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/tomcat-app/) |            |         |
-| [Deploy MySQL on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/mysql-app/) |            |         |
-| [Deploy etcd on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/etcd-app/) |            |         |
 | [Deploy Memcached on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/memcached-app/) |            |         |
 | [Deploy MinIO on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/minio-app/) |            |         |
 | [Deploy PostgreSQL on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/postgresql-app/) |            |         |
+| [Deploy Tomcat on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/tomcat-app/) |            |         |
+| [Deploy MySQL on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/mysql-app/) |            |         |
+| [Deploy etcd on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/etcd-app/) |            |         |
 | [Application Lifecycle Management](https://kubesphere.io/docs/application-store/app-lifecycle-management/) |            |         |
 
 | Workspace Administration and User Guide                      | Translator | PR Link |
